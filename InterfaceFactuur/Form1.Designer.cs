@@ -55,7 +55,7 @@
             btnAanmakenFactuur.Margin = new Padding(4, 3, 4, 3);
             btnAanmakenFactuur.Name = "btnAanmakenFactuur";
             btnAanmakenFactuur.Size = new Size(258, 27);
-            btnAanmakenFactuur.TabIndex = 0;
+            btnAanmakenFactuur.TabIndex = 4;
             btnAanmakenFactuur.Text = "Maak factuur aan";
             btnAanmakenFactuur.UseVisualStyleBackColor = true;
             // 
@@ -65,7 +65,7 @@
             txtKlantNaam.Margin = new Padding(4, 3, 4, 3);
             txtKlantNaam.Name = "txtKlantNaam";
             txtKlantNaam.Size = new Size(116, 23);
-            txtKlantNaam.TabIndex = 1;
+            txtKlantNaam.TabIndex = 2;
             // 
             // txtKlantnummer
             // 
@@ -73,7 +73,7 @@
             txtKlantnummer.Margin = new Padding(4, 3, 4, 3);
             txtKlantnummer.Name = "txtKlantnummer";
             txtKlantnummer.Size = new Size(116, 23);
-            txtKlantnummer.TabIndex = 2;
+            txtKlantnummer.TabIndex = 3;
             // 
             // txtProduct
             // 
@@ -81,7 +81,7 @@
             txtProduct.Margin = new Padding(4, 3, 4, 3);
             txtProduct.Name = "txtProduct";
             txtProduct.Size = new Size(116, 23);
-            txtProduct.TabIndex = 3;
+            txtProduct.TabIndex = 5;
             // 
             // txtAantal
             // 
@@ -89,7 +89,7 @@
             txtAantal.Margin = new Padding(4, 3, 4, 3);
             txtAantal.Name = "txtAantal";
             txtAantal.Size = new Size(116, 23);
-            txtAantal.TabIndex = 4;
+            txtAantal.TabIndex = 6;
             // 
             // txtPrijs
             // 
@@ -97,7 +97,7 @@
             txtPrijs.Margin = new Padding(4, 3, 4, 3);
             txtPrijs.Name = "txtPrijs";
             txtPrijs.Size = new Size(116, 23);
-            txtPrijs.TabIndex = 5;
+            txtPrijs.TabIndex = 7;
             // 
             // label1
             // 
@@ -204,7 +204,7 @@
             txtFactuurID.Margin = new Padding(4, 3, 4, 3);
             txtFactuurID.Name = "txtFactuurID";
             txtFactuurID.Size = new Size(116, 23);
-            txtFactuurID.TabIndex = 19;
+            txtFactuurID.TabIndex = 1;
             // 
             // lstFactuurLijnen
             // 
